@@ -5,4 +5,4 @@ rm -rf      --> remove the whole file or directory
 cat
 mkdir
 rmdir
-
+rebase
