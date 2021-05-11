@@ -2,4 +2,5 @@ cp          --> copy the file from one place to another place
 cp -r       --> copying directories one place to another place
 rm          --> remove the file 
 rm -rf      --> remove the whole file or directory
-
+cat
+mkdir
